@@ -34,7 +34,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/xdEa4Vv"><a href="//imgur.com/xdEa4Vv">AND101_project6 (Thao)</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://imgur.com/a/xdEa4Vv.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **Mac0S recorder**
 
