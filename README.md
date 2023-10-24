@@ -41,8 +41,7 @@ GIF created with **Mac0S recorder**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
-
+we have learn how to display large data sets by using recyclerview, and layout manager, adapter...etc get more confident in implement process. 
 ## License
 
 Copyright **2023** **Thao Duong**
